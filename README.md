@@ -3,7 +3,7 @@
 A lightweight, full-screen TUI for burning disk images to USB sticks, painted
 in your **Omarchy theme**.
 
-![omnBurn burning Tails to two USB sticks at once, checking its checksum and signature, then reading both sticks back to verify them](assets/burn.gif)
+![omnBurn burning Tails to two USB sticks at once, checking its checksum and signature, then reading both sticks back to verify them](omnBurn/assets/burn.gif)
 
 <sub>Burning Tails to two sticks at once, then reading them back to verify them
 (sped up; the whole job took 48 s).</sub>
