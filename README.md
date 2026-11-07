@@ -69,16 +69,16 @@ in your **Omarchy theme**.
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/home.png" alt="The home screen: burn an image file, download and burn, back up a disk, restore a stick, with the plugged-in sticks listed below"></td>
-    <td width="50%"><img src="assets/download.png" alt="The Download &amp; burn menu, listing Omarchy, Arch Linux, CachyOS, Debian, Fedora and the other systems"></td>
+    <td width="50%"><img src="omnBurn/assets/home.png" alt="The home screen: burn an image file, download and burn, back up a disk, restore a stick, with the plugged-in sticks listed below"></td>
+    <td width="50%"><img src="omnBurnassets/download.png" alt="The Download &amp; burn menu, listing Omarchy, Arch Linux, CachyOS, Debian, Fedora and the other systems"></td>
   </tr>
   <tr>
     <td><b>Home.</b> Pick what to do; the sticks plugged in are listed below.</td>
     <td><b>Download &amp; burn.</b> omnBurn finds the latest release of the system you pick.</td>
   </tr>
   <tr>
-    <td><img src="assets/image.png" alt="The image screen: file, size, format, contents, a SHA-256 checksum found next to the image, and a good GPG signature from Tails developers"></td>
-    <td><img src="assets/drives.png" alt="The drive picker with two USB sticks selected and an SD card not selected"></td>
+    <td><img src="omnBurn/assets/image.png" alt="The image screen: file, size, format, contents, a SHA-256 checksum found next to the image, and a good GPG signature from Tails developers"></td>
+    <td><img src="omnBurn/assets/drives.png" alt="The drive picker with two USB sticks selected and an SD card not selected"></td>
   </tr>
   <tr>
     <td><b>The image.</b> Its format, contents, checksum and GPG signature.</td>
@@ -158,7 +158,7 @@ omnBurn reads the palette of the active Omarchy theme from
 run `omarchy theme set <name>` while omnBurn is open, it repaints in the new
 colors. The theme's name is shown in the top-right corner.
 
-![The home screen in four Omarchy themes: netrunner, Tokyo Night, Catppuccin Latte and Gruvbox](assets/themes.png)
+![The home screen in four Omarchy themes: netrunner, Tokyo Night, Catppuccin Latte and Gruvbox](omnBurn/assets/themes.png)
 
 If no Omarchy theme is found, or the terminal can't do truecolor, omnBurn falls
 back to the terminal's 16-color palette (which Omarchy themes too). Overrides:
