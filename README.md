@@ -70,7 +70,7 @@ in your **Omarchy theme**.
 <table>
   <tr>
     <td width="50%"><img src="omnBurn/assets/home.png" alt="The home screen: burn an image file, download and burn, back up a disk, restore a stick, with the plugged-in sticks listed below"></td>
-    <td width="50%"><img src="omnBurnassets/download.png" alt="The Download &amp; burn menu, listing Omarchy, Arch Linux, CachyOS, Debian, Fedora and the other systems"></td>
+    <td width="50%"><img src="omnBurn/assets/download.png" alt="The Download &amp; burn menu, listing Omarchy, Arch Linux, CachyOS, Debian, Fedora and the other systems"></td>
   </tr>
   <tr>
     <td><b>Home.</b> Pick what to do; the sticks plugged in are listed below.</td>
