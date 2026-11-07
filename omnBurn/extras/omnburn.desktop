@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=omnBurn
+GenericName=USB Image Writer
+Comment=Burn ISO and disk images to USB sticks, back them up, restore them
+Exec=xdg-terminal-exec --app-id=org.omarchy.omnburn -e omnburn %f
+Icon=drive-removable-media
+Terminal=false
+Categories=System;
+Keywords=usb;iso;burn;flash;write;image;stick;
+MimeType=application/x-cd-image;application/x-iso9660-image;application/vnd.efi.iso;application/vnd.efi.img;application/x-raw-disk-image;application/x-raw-disk-image-xz-compressed;
